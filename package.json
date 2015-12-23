@@ -5,6 +5,8 @@
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
-    "nightwatch": "*"
+    "nightwatch": "*",
+    "gulp": "*",
+    "gulp-webserver": "*"
   }
 }
